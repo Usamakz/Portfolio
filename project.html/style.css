@@ -1,11 +1,24 @@
 .square {
-  height: 100px;
-  width: 100px;
-  background-color: aqua;
-  
+  background-color:yellowgreen;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
 }
-.circle{
-  height:50px;
-  width: 50px;
-  background-color: #c04444;
-  border-radius:150%;
+
+.circle {
+  height: 200px;
+  width: 200px;
+  background-color: hsl(0, 57%, 22%);
+  border-radius: 150%;
+
+
+}
+
+.triangle-up {
+  width: 0;
+  height: 0;
+  border-left: 90px solid transparent;
+  border-right: 90px solid transparent;
+  border-bottom: 145px solid #043f0d;
+
+}
