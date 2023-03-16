@@ -4,16 +4,8 @@
   background-color: aqua;
   
 }
-.circle {
-  height: 50px;
+.circle{
+  height:50px;
   width: 50px;
-  background-color: #555;
-  border-radius: 100%;
-}           
-.triangle-up {
-	width: 0;
-	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-bottom: 50px solid #d30a0a;
-}             
+  background-color: #c04444;
+  border-radius:150%;
