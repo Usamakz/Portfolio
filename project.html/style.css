@@ -2,14 +2,13 @@
   background-color:yellowgreen;
   height: 150px;
   width: 150px;
-  border-radius: 10px;
   
 }
 
 .circle {
   height: 200px;
   width: 200px;
-  background-color: hsl(0, 57%, 22%);
+  background-color: navy;
   border-radius: 150%;
 
 
@@ -20,16 +19,9 @@
   height: 0;
   border-left: 90px solid transparent;
   border-right: 90px solid transparent;
-  border-bottom: 145px solid #043f0d;
+  border-bottom: 145px solid skyblue;
 
 }
 
-​.rectangle {
-  height: 100px;
-  width: 50px;
-}
-.shapes{
-  background-color: #043f0d;
-}
 
   
